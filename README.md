@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning app security
 - 💞️ I’m looking to collaborate on cybersecurity field
-- 📫 You can reach me on Twitter @Charlie24484024
+- 📫 You can reach me on Twitter @thr3athunt3r
 
 <!---
 thr3athunt3r/thr3athunt3r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
